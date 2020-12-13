@@ -610,14 +610,6 @@ DesignationSystem.periodicTable = new DesignationSystem({
     ]
 });
 
-DesignationSystem.PhoneticAlphabet = new DesignationSystem({
-    displayName: 'PhoneticAlphabet',
-    suffix: DEPRESSION_LETTER,
-    mainLists: [
-        ["Alpha","Bravo","Charlie","Delta","Echo",'Foxtrot","Golf","Hotel","India","Juliett","Kilo","Lima","Mike","November","Oscar","Papa","Quebec","Romeo","Sierra","Tango","Victor","Whiskey","X-ray","Yankee","Zulu"]
-    ]
-});
-
 DesignationSystem.periodicTableAnnual = DesignationSystem.periodicTable.clone();
 DesignationSystem.periodicTableAnnual.naming.annual = true;
 DesignationSystem.periodicTableAnnual.displayName = 'Periodic Table (Annual)';
