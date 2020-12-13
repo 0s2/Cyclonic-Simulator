@@ -1,2 +1,2 @@
-# cyclone-sim
-A p5.js tropical cyclone simulation game
+# cyclonic-simulator
+A tropical cyclone game
