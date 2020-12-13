@@ -7,7 +7,7 @@ const ENVDATA_COMPATIBLE_FORMAT = 0;
 
 const WIDTH = 960; // 16:9 aspect ratio
 const HEIGHT = 540;
-const DIAMETER = 35;    // Storm icon diameter
+const DIAMETER = 25;    // Storm icon diameter
 const PERLIN_ZOOM = 100;    // Resolution for perlin noise
 const TICK_DURATION = 3600000;  // How long in sim time does a tick last in milliseconds (1 hour)
 const ADVISORY_TICKS = 3;    // Number of ticks per advisory
