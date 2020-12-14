@@ -77,10 +77,6 @@ const MAP_TYPES = [     // Land generation controls for different map types
             0.2,
             0.3
         ]
-    },
-    {   // "Random" map type
-        form: 'pixelmap',
-        path: 'resources/world1.png'
     },   
     {   // "Atlantic" map type
         form: 'pixelmap',
@@ -118,10 +114,6 @@ const MAP_TYPES = [     // Land generation controls for different map types
         form: 'pixelmap',
         path: 'resources/SouthAtlantic.png'
     },
-    {   // "cool" map type
-        form: 'pixelmap',
-        path: 'resources/Medi.png'
-    }
 ];
 const EXTROP = 0;
 const SUBTROP = 1;
