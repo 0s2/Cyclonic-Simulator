@@ -80,12 +80,7 @@ const MAP_TYPES = [     // Land generation controls for different map types
     },
     {   // "Random" map type
         form: "linear",
-        landBiasFactors: [
-            17/20,
-            -4,
-            -0.8,
-            0.02
-        ]
+        path: 'resources/world1.png'
     },   
     {   // "Atlantic" map type
         form: 'pixelmap',
