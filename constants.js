@@ -118,7 +118,7 @@ const MAP_TYPES = [     // Land generation controls for different map types
         form: 'pixelmap',
         path: 'resources/SouthAtlantic.png'
     },
-    {   // "Mediterranean" map type
+    {   // "cool" map type
         form: 'pixelmap',
         path: 'resources/Medi.png'
     }
